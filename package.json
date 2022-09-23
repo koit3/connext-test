@@ -1,0 +1,12 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/contracts-upgradeable": "^4.7.3",
+    "hardhat": "^2.11.2"
+  },
+  "dependencies": {
+    "@connext/nxtp-contracts": "^0.2.0-alpha.24"
+  }
+}
